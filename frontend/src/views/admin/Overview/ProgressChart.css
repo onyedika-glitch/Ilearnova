@@ -1,0 +1,20 @@
+
+.progress-chart {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .progress-chart h2 {
+    margin-bottom: 20px;
+  }
+  
+  .progress-chart .chart-container {
+    height: 300px;
+  }
+  
+  .progress-chart .chart-container canvas {
+    max-height: 100%;
+    max-width: 100%;
+  }
